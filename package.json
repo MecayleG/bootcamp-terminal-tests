@@ -1,0 +1,26 @@
+{
+  "name": "bootcamp-terminal-tests",
+  "version": "1.0.0",
+  "description": "testing my bootcamps code using mocha in the terminal",
+  "main": "countAllFromTown.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MecayleG/bootcamp-terminal-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MecayleG/bootcamp-terminal-tests/issues"
+  },
+  "homepage": "https://github.com/MecayleG/bootcamp-terminal-tests#readme",
+  "devDependencies": {
+    "mocha": "^8.1.1"
+  }
+}
