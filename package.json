@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/MecayleG/bootcamp-terminal-tests#readme",
   "devDependencies": {
-    "mocha": "^8.1.1"
+    "mocha": "^8.4.0"
   }
 }
